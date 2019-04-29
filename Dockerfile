@@ -8,5 +8,5 @@ WORKDIR /inetpub/wwwroot
 COPY Dockerfile.ps1 .
 
 RUN powershell -executionpolicy bypass .\Dockerfile.ps1
-
-COPY build/ .
+#不清楚, build目录从何而来
+#COPY build/ .
