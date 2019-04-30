@@ -741,7 +741,8 @@ namespace SiteServer.CMS.Plugin.Apis
             if (command == null) throw new ArgumentNullException(nameof(command));
 
 #if (DEBUG)
-            DataProvider.RecordDao.RecordCommandExecute(command, nameof(ExecuteNonQuery));
+            //hdh
+         //   DataProvider.RecordDao.RecordCommandExecute(command, nameof(ExecuteNonQuery));
 #endif
 
             int returnVal = command.ExecuteNonQuery();
@@ -1170,7 +1171,8 @@ namespace SiteServer.CMS.Plugin.Apis
             // Create a reader
 
 #if (DEBUG)
-            DataProvider.RecordDao.RecordCommandExecute(command, nameof(ExecuteReader));
+            //hdh
+          //  DataProvider.RecordDao.RecordCommandExecute(command, nameof(ExecuteReader));
 #endif
 
             // Call ExecuteReader with the appropriate CommandBehavior
@@ -1392,7 +1394,8 @@ namespace SiteServer.CMS.Plugin.Apis
             }
 
 #if (DEBUG)
-            DataProvider.RecordDao.RecordCommandExecute(command, nameof(ExecuteScalar));
+            //hdh
+          //  DataProvider.RecordDao.RecordCommandExecute(command, nameof(ExecuteScalar));
 #endif
 
             // Execute the command & return the results

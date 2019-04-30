@@ -1,0 +1,508 @@
+[33mcommit 5e04df46b9d73fa75189c93ba58521023129fca7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: siteserver-v6.9.0[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Mon Mar 4 09:13:04 2019 +0800
+
+    6.9
+
+[33mcommit 54aa25ad1cfded3c2ccb94635dc7452d6981c915[m[33m ([m[1;33mtag: siteserver-v6.8.3[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Sun Jan 6 08:18:07 2019 +0800
+
+    6.8
+
+[33mcommit d902506e04911b187ecab5b273dd907e9534f743[m
+Author: starlying <starlying@gmail.com>
+Date:   Sun Jan 6 06:25:47 2019 +0800
+
+    6.8
+
+[33mcommit 475605ed2817620f84a4d0034a949258b27b40a1[m[33m ([m[1;33mtag: siteserver-v6.8.1[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Jan 2 16:55:05 2019 +0800
+
+    6.8
+
+[33mcommit 322feda9962aa92d9cdef3bd8e1d8e5f109834f2[m[33m ([m[1;33mtag: siteserver-v6.8.0[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Jan 2 12:50:52 2019 +0800
+
+    6.8
+
+[33mcommit 1165fe27d0333c61e989462028aeeeb46e114d04[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Jan 2 12:49:47 2019 +0800
+
+    6.8
+
+[33mcommit b0a5f6ca3da493060c35f5779f1cfa5cde5163d2[m[33m ([m[1;33mtag: siteserver-v6.7.17-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Tue Jan 1 23:25:38 2019 +0800
+
+    6.8
+
+[33mcommit 3d92378830daeb38f85b4c561d4ff5c7fee79a52[m
+Author: starlying <starlying@gmail.com>
+Date:   Tue Jan 1 22:57:46 2019 +0800
+
+    6.8
+
+[33mcommit 56c2a83a23c8eac6eff2dde79aaf65b09a0a754b[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Dec 26 13:33:29 2018 +0800
+
+    api
+
+[33mcommit 8b37161a0e859103d3b119ec44be10a8c01d816a[m[33m ([m[1;33mtag: siteserver-v6.7.15-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Fri Dec 21 16:37:05 2018 +0800
+
+    api
+
+[33mcommit d7abf43a09103df93adbb76b5abd1ca3ed6df7e9[m[33m ([m[1;33mtag: siteserver-v6.7.14-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Fri Dec 14 14:58:26 2018 +0800
+
+    api
+
+[33mcommit b7573c951107c3eafc36b57a1f6ce85dbe30a50c[m
+Author: starlying <starlying@gmail.com>
+Date:   Fri Dec 14 14:57:53 2018 +0800
+
+    api
+
+[33mcommit 8586c6fc475d072d84c28412d92fac363b59e71d[m[33m ([m[1;33mtag: siteserver-v6.7.13-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Mon Dec 3 08:53:30 2018 +0800
+
+    api
+
+[33mcommit 513ed5e3f180f426a5ae632d15eced4e6f82b8dd[m[33m ([m[1;33mtag: siteserver-v6.7.12-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Mon Dec 3 07:45:27 2018 +0800
+
+    api
+
+[33mcommit 250d74a2677a264429ad398984415a6afbc1138e[m[33m ([m[1;33mtag: siteserver-v6.7.11-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Sun Dec 2 22:51:37 2018 +0800
+
+    api
+
+[33mcommit 75a595cb45d7d553f5441ab61bd1a853aff9f5c2[m[33m ([m[1;33mtag: siteserver-v6.7.10-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Sun Dec 2 00:34:53 2018 +0800
+
+    api
+
+[33mcommit 37886eee60d226e78e234bff45d439d4d7a80876[m
+Author: starlying <starlying@gmail.com>
+Date:   Sat Dec 1 10:36:28 2018 +0800
+
+    api
+
+[33mcommit b4232eb9f34e80b057bab3bbc06381e9fbf25158[m[33m ([m[1;33mtag: siteserver-v6.7.9-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Thu Nov 29 17:19:13 2018 +0800
+
+    focusviewer
+
+[33mcommit 09196e701ba1114ae3cd0120601eef1455bc9e1c[m[33m ([m[1;33mtag: siteserver-v6.7.8-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Nov 28 10:51:45 2018 +0800
+
+    api
+
+[33mcommit b907d71d145866ce497420ff047b106c90d5aba0[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Nov 28 00:04:18 2018 +0800
+
+    api
+
+[33mcommit 5a182ee1cff0223b3b52f07f98db666992113e80[m[33m ([m[1;33mtag: siteserver-v6.7.6[m[33m, [m[1;33mtag: siteserver-v6.7.5-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Thu Nov 8 15:30:05 2018 +0800
+
+    bugfix
+
+[33mcommit 4151e1dccb4a9f0a06b76bc7b977d3e98185f771[m[33m ([m[1;33mtag: siteserver-v6.7.4[m[33m, [m[1;33mtag: siteserver-v6.7.3-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Fri Nov 2 14:55:11 2018 +0800
+
+    api
+
+[33mcommit 38d053506a1c4b39285687ec809841c1332d2f8e[m
+Author: starlying <starlying@gmail.com>
+Date:   Thu Nov 1 12:02:35 2018 +0800
+
+    6.7
+
+[33mcommit b01b59b136f1b2f4ebaba244f95d7c13b10547d8[m[33m ([m[1;33mtag: siteserver-v6.7.2-beta[m[33m, [m[1;33mtag: siteserver-v6.7.1[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Thu Nov 1 11:13:42 2018 +0800
+
+    6.7
+
+[33mcommit 146e41539266fa9c0a9f15dd18dec72dce2267b2[m[33m ([m[1;33mtag: siteserver-v6.7.0[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Oct 31 22:18:19 2018 +0800
+
+    6.7
+
+[33mcommit 6096985d4ce4be7ccc30bcd65353fa45f2304592[m[33m ([m[1;33mtag: siteserver-v6.6.41-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Oct 31 21:11:51 2018 +0800
+
+    6.7
+
+[33mcommit 38f03d6ed5d9779f284d24af06e87d56801c9ffe[m[33m ([m[1;33mtag: siteserver-v6.6.40-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Mon Oct 29 22:36:50 2018 +0800
+
+    api
+
+[33mcommit e3c7a9400f230ed50a32eb163e0f25c8b9e6bf2b[m[33m ([m[1;33mtag: siteserver-v6.6.39-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Sun Oct 28 19:19:56 2018 +0800
+
+    api
+
+[33mcommit d358f72ad50f296805741bc99079363e18ae5b9a[m[33m ([m[1;33mtag: siteserver-v6.6.38-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Fri Oct 26 15:24:02 2018 +0800
+
+    api
+
+[33mcommit e9f96c0c712f276836da0d35e83b8aafe6716af2[m[33m ([m[1;33mtag: siteserver-v6.6.37-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Tue Oct 23 14:56:39 2018 +0800
+
+    home
+
+[33mcommit 015b94c547cff931d41fb9f6f70f28cb2f54b586[m[33m ([m[1;33mtag: siteserver-v6.6.36-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Fri Oct 19 17:30:56 2018 +0800
+
+    api
+
+[33mcommit 86c6f81038ca29e699245ee80bc6a4f5c29ebbba[m[33m ([m[1;33mtag: siteserver-v6.6.35-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Oct 17 18:46:46 2018 +0800
+
+    upload
+
+[33mcommit 4002507b8d4d86fb2632550b130fb1c2ce686d51[m[33m ([m[1;33mtag: siteserver-v6.6.34-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Oct 17 11:11:37 2018 +0800
+
+    api
+
+[33mcommit b6b8b47a3650df6c441f2ede1d60df5d99fe92a1[m[33m ([m[1;33mtag: siteserver-v6.6.33-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Tue Oct 16 13:03:56 2018 +0800
+
+    plugin
+
+[33mcommit cb7b2836d2373288ee6fda4fba316e3fc003e109[m[33m ([m[1;33mtag: siteserver-v6.6.32-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Tue Oct 16 03:46:00 2018 +0800
+
+    home
+
+[33mcommit c12303626a28cc829a0dcfad79d0f6de0e6cbc7b[m[33m ([m[1;33mtag: siteserver-v6.6.31-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Mon Oct 15 19:03:46 2018 +0800
+
+    plugin
+
+[33mcommit 33513e982a4edeffd0327d195b1683c8e27afe7c[m[33m ([m[1;33mtag: siteserver-v6.6.30-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Mon Oct 15 16:57:43 2018 +0800
+
+    taxis
+
+[33mcommit c4c68297cca91a0f5a2e47174268f359430eb4e3[m
+Merge: 1f9787e8 0d928a8c
+Author: starlying <starlying@gmail.com>
+Date:   Mon Oct 15 16:28:19 2018 +0800
+
+    Merge branch 'dev' of https://github.com/siteserver/cms into dev
+
+[33mcommit 1f9787e87c2545feee2b95db7e2b3a511603c476[m
+Author: starlying <starlying@gmail.com>
+Date:   Mon Oct 15 16:27:24 2018 +0800
+
+    home
+
+[33mcommit 0d928a8cec73380eeae6e21533ee3919cb839154[m
+Merge: 7b478866 cf26f7e8
+Author: tim <starlying@users.noreply.github.com>
+Date:   Fri Oct 12 16:04:30 2018 +0800
+
+    Merge pull request #1425 from loopTest/dev
+    
+    1.新增后台-栏目页排序（仿内容页）
+
+[33mcommit 7b4788663aa545ed0d6e762b57f91f84c77fc87a[m[33m ([m[1;33mtag: siteserver-v6.6.27-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Fri Oct 12 15:46:36 2018 +0800
+
+    home
+
+[33mcommit cf26f7e8a568e30fa5e27a5e12d354e23ddf881c[m
+Author: zzj19930721 <1520398083@qq.com>
+Date:   Wed Oct 10 10:13:54 2018 +0800
+
+    1.后台-栏目新增排序按钮（仿内容页）
+
+[33mcommit dd2e5e5e5691eb1bb1be493df53b99524e163ab6[m[33m ([m[1;33mtag: siteserver-v6.6.26-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Tue Oct 9 15:57:23 2018 +0800
+
+    home
+
+[33mcommit e6e88c937221275b3c46d6e1d5a85a64c4927813[m[33m ([m[1;33mtag: siteserver-v6.6.25-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Tue Oct 9 06:22:57 2018 +0800
+
+    home
+
+[33mcommit d8a6defacf6ed31519a31bac597fa25cbded6574[m[33m ([m[1;33mtag: siteserver-v6.6.24-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Sat Sep 29 09:38:56 2018 +0800
+
+    contents
+
+[33mcommit 8f92e7ea403f4607bd7908f95ff46df0641ba37d[m[33m ([m[1;33mtag: siteserver-v6.6.23-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Thu Sep 27 04:55:35 2018 +0800
+
+    contents
+
+[33mcommit d443a2ca0a1cbc4f5393ab2de989af8fcd099994[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Sep 26 12:48:44 2018 +0800
+
+    build
+
+[33mcommit 565f03131df1a090c099ef1ce2fb7ada04a25821[m[33m ([m[1;33mtag: siteserver-v6.6.22-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Thu Sep 20 13:22:14 2018 +0800
+
+    cli
+
+[33mcommit d0fb1272b0759f1554ad5b62414f30d36da729a9[m
+Author: sscmscom <1751776538@qq.com>
+Date:   Thu Sep 20 13:13:31 2018 +0800
+
+    cli
+
+[33mcommit 6c1baf149a45e791722b05354dcd0dc6c5948daf[m
+Author: starlying <starlying@gmail.com>
+Date:   Thu Sep 20 12:08:43 2018 +0800
+
+    cli
+
+[33mcommit 691dfc5a4c4c2be023e06c89635b72b0175134f6[m
+Author: starlying <starlying@gmail.com>
+Date:   Thu Sep 20 03:29:09 2018 +0800
+
+    cache
+
+[33mcommit b76120ce8ec43cd3785b28a750f778658078cb00[m[33m ([m[1;33mtag: siteserver-v6.6.21-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Tue Sep 18 15:13:30 2018 +0800
+
+    cache
+
+[33mcommit 31f020c638416551c250ce01586819e98237ac61[m[33m ([m[1;33mtag: siteserver-v6.6.20-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Mon Sep 17 16:56:20 2018 +0800
+
+    contents
+
+[33mcommit fd977be3f5a23d1247b3472de1b21029bdbd88ff[m[33m ([m[1;33mtag: siteserver-v6.6.19-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Mon Sep 17 11:24:47 2018 +0800
+
+    contents
+
+[33mcommit 7f9c69254da2829685a9ec855264c69c1add7c9e[m[33m ([m[1;33mtag: siteserver-v6.6.18-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Sep 12 12:07:25 2018 +0800
+
+    captcha
+
+[33mcommit 6ba682f007e087e0f2f9d21b6b332b35f17b4bed[m[33m ([m[1;33mtag: siteserver-v6.6.17-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Mon Sep 10 15:32:13 2018 +0800
+
+    tables
+
+[33mcommit 43370f98deca15420029a21e0d2c0a5dfd15cc3e[m
+Author: sscmscom <1751776538@qq.com>
+Date:   Sun Sep 9 08:36:19 2018 +0800
+
+    cli
+
+[33mcommit cc30ef9d0a65159fa58b24e6a74ffb7ab66d2bc4[m
+Author: sscmscom <1751776538@qq.com>
+Date:   Sat Sep 8 13:31:40 2018 +0800
+
+    tables
+
+[33mcommit f37a143e3a5768805b4b08e93d2e905323cfec66[m
+Author: starlying <starlying@gmail.com>
+Date:   Sat Sep 8 13:29:06 2018 +0800
+
+    tables
+
+[33mcommit 235cbd07550659c33870df069c7a2f7d381f0389[m[33m ([m[1;33mtag: siteserver-v6.6.15-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Fri Sep 7 20:04:05 2018 +0800
+
+    css
+
+[33mcommit a8fe8b47314c338c485a007089a70eaeeaff4f2c[m[33m ([m[1;33mtag: siteserver-v6.6.14-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Fri Sep 7 18:31:25 2018 +0800
+
+    cli
+
+[33mcommit a971cb749bd16539041112a8d75fc82af3b4db57[m[33m ([m[1;33mtag: siteserver-v6.6.13-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Fri Sep 7 13:52:51 2018 +0800
+
+    cli
+
+[33mcommit 4f0d003cdf34620d6eae31ac9bafc70f5fd3ec15[m[33m ([m[1;33mtag: upload[m[33m, [m[1;33mtag: siteserver-v6.6.12-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Fri Sep 7 11:25:18 2018 +0800
+
+    cli
+
+[33mcommit 094d04ed357611bd12e0244b16df68a48302f63a[m[33m ([m[1;33mtag: siteserver-v6.6.11-beta[m[33m)[m
+Author: sscmscom <1751776538@qq.com>
+Date:   Fri Sep 7 04:09:19 2018 +0800
+
+    table
+
+[33mcommit 8d5df10d087ce195df1c2be3510e5d05fafc4cb8[m[33m ([m[1;33mtag: siteserver-v6.6.10-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Thu Sep 6 20:43:40 2018 +0800
+
+    cli
+
+[33mcommit be0ec4e66e09fda6d1ee653c30859a7abda4635b[m[33m ([m[1;33mtag: siteserver-v6.6.9-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Sep 5 22:36:38 2018 +0800
+
+    cli
+
+[33mcommit e733f58ec791162d82514e98747f3598fa4a72b0[m[33m ([m[1;33mtag: siteserver-v6.6.8-beta[m[33m)[m
+Author: sscmscom <1751776538@qq.com>
+Date:   Wed Sep 5 22:20:05 2018 +0800
+
+    cli
+
+[33mcommit 83dbdad798d0a294aeacaef86433c3cb63aa2c87[m[33m ([m[1;33mtag: siteserver-v6.6.7-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Sep 5 22:04:47 2018 +0800
+
+    json
+
+[33mcommit 425dcf6a0d8feeb23c9f122fd1b274daf25e3e69[m[33m ([m[1;33mtag: siteserver-v6.6.6-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Sep 5 20:48:57 2018 +0800
+
+    json
+
+[33mcommit c0f80b51aad024002393b2b60e296675c74f2a62[m[33m ([m[1;33mtag: siteserver-v6.6.5-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Sep 5 19:49:48 2018 +0800
+
+    cli
+
+[33mcommit f8b173db62c505d5b85e092b01193d496b98e463[m[33m ([m[1;33mtag: siteserver-v6.6.4-beta[m[33m)[m
+Author: sscmscom <1751776538@qq.com>
+Date:   Wed Sep 5 13:28:01 2018 +0800
+
+    oracle
+
+[33mcommit 41127d55333e1c45aed022dc8f72d307f18243b7[m[33m ([m[1;33mtag: siteserver-v6.6.3-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Wed Sep 5 10:39:16 2018 +0800
+
+    create-pages
+
+[33mcommit 4ab6ae08bd1bf9771ed350e476c96550c11708f1[m[33m ([m[1;33mtag: siteserver-v6.6.2[m[33m, [m[1;33mtag: siteserver-v6.6.1-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Sat Sep 1 10:09:55 2018 +0800
+
+    6.6
+
+[33mcommit cf72464992a9978379deb71d61612cfd738c37bb[m[33m ([m[1;33mtag: siteserver-v6.6.0-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Sat Sep 1 09:23:52 2018 +0800
+
+    6.6
+
+[33mcommit eb4d72d3707e15de41964996ea8709c0163f1ad5[m[33m ([m[1;33mtag: siteserver-v6.5.24-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Thu Aug 30 17:54:02 2018 +0800
+
+    6.6
+
+[33mcommit 28d1f2ab9b91e56e0cd210028c8e76de51e9447b[m[33m ([m[1;33mtag: siteserver-v6.5.23-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Thu Aug 30 14:40:45 2018 +0800
+
+    6.6
+
+[33mcommit e1e30cad7afc10ad14ad80332c15ece10b6f98b7[m[33m ([m[1;33mtag: siteserver-v6.5.22-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Thu Aug 30 14:25:44 2018 +0800
+
+    6.6
+
+[33mcommit 4e11fac7a4cdfda3f91d10edc1a2546e2181c4e9[m[33m ([m[1;33mtag: siteserver-v6.5.21-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Thu Aug 30 13:59:23 2018 +0800
+
+    6.6
+
+[33mcommit 26edf1fd34ddf53f6a2d739df2f50b6c284c2ca7[m
+Author: starlying <starlying@gmail.com>
+Date:   Thu Aug 30 13:47:26 2018 +0800
+
+    6.6
+
+[33mcommit 4ba3720dccd5532b228768651cc94bec771e59b0[m[33m ([m[1;33mtag: siteserver-v6.5.19-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Thu Aug 30 12:52:17 2018 +0800
+
+    6.6
+
+[33mcommit fd5d1ab7dabebd6a9d75c1dad1ae8f89b5b3eb16[m[33m ([m[1;33mtag: siteserver-v6.5.18-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Fri Aug 24 17:21:48 2018 +0800
+
+    xss
+
+[33mcommit 43c4635805758e48539fb97c978fe2862bb54e51[m[33m ([m[1;33mtag: siteserver-v6.5.17-beta[m[33m)[m
+Author: starlying <starlying@gmail.com>
+Date:   Fri Aug 24 16:27:03 2018 +0800
+
+    video
+
+[33mcommit 344d3542d23a67998c4cc3b10620117143c91fe8[m[33m ([m[1;33mtag: siteserver-v6.5.16-beta[m[33m)[m
+Merge: a403f842 8f8fcf8a
+Author: starlying <starlying@gmail.com>
+Date:   Fri Aug 24 09:04:09 2018 +0800
+
+    Merge branch 'dev' of https://github.com/siteserver/cms into dev
+
+[33mcommit a403f842767b98d765007a1545df10fa0e08a20d[m
+Author: starlying <starlying@gmail.com>
+Date:   Fri Aug 24 08:59:51 2018 +0800
+
+    dashboard
